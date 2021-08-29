@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24ca75a6-6513-40dc-a451-8e1d0b5d5702" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/services/web_api/web_api_implementation.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/services/service_locator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/service_locator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/business_logic/utils/iso_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/business_logic/utils/iso_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/business_logic/view_models/choose_favorites_viewmodel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/business_logic/view_models/choose_favorites_viewmodel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/web_api/web_api_implementation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/web_api/web_api_implementation.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui/views/choose_favorites.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/views/choose_favorites.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,21 +93,53 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="195" key="GridCell.Tab.0.bottom" timestamp="1630163031683">
+    <state x="435" y="163" key="AndroidProcessChooserDialog" timestamp="1630229493205">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="195" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1630163031683" />
-    <state width="1238" height="195" key="GridCell.Tab.0.center" timestamp="1630163031683">
+    <state x="435" y="163" key="AndroidProcessChooserDialog/0.25.1280.775@0.25.1280.775" timestamp="1630229493205" />
+    <state width="1238" height="273" key="GridCell.Tab.0.bottom" timestamp="1630233856852">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="195" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1630163031683" />
-    <state width="1238" height="195" key="GridCell.Tab.0.left" timestamp="1630163031682">
+    <state width="1238" height="273" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1630233856852" />
+    <state width="1238" height="273" key="GridCell.Tab.0.center" timestamp="1630233856851">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="195" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1630163031682" />
-    <state width="1238" height="195" key="GridCell.Tab.0.right" timestamp="1630163031683">
+    <state width="1238" height="273" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1630233856851" />
+    <state width="1238" height="273" key="GridCell.Tab.0.left" timestamp="1630233856851">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="195" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1630163031683" />
+    <state width="1238" height="273" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1630233856851" />
+    <state width="1238" height="273" key="GridCell.Tab.0.right" timestamp="1630233856852">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state width="1238" height="273" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1630233856852" />
+    <state x="170" y="145" width="940" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1630232442531">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="170" y="145" width="940" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1280.775@0.25.1280.775" timestamp="1630232442531" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/business_logic/view_models/choose_favorites_viewmodel.dart</url>
+          <line>73</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/business_logic/view_models/choose_favorites_viewmodel.dart</url>
+          <line>58</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/business_logic/view_models/choose_favorites_viewmodel.dart</url>
+          <line>68</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

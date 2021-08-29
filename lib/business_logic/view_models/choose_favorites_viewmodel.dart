@@ -26,7 +26,8 @@ class ChooseFavoritesViewModel extends ChangeNotifier {
 
   void loadData() async {
     final rates = await _currencyService.getAllExchangeRates();
-
+    _favorites = await _currencyService.getFavoriteCurrencies();
+    _prepareChoicePresentation(rates);
     notifyListeners();
   }
 

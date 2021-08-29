@@ -7,12 +7,20 @@ class IsoData {
 
   /// Gives a flag for a three character ISO alphabetic [code].
   static flagOf(String code) {
-    return data[code]['flag'] ?? '?';
+    if (data.containsKey(code)) {
+      return data[code]['flag'] ?? '?';
+    } else {
+      return '?';
+    }
   }
 
   /// Gives the full currency name for a three character ISO alphabetic [code].
   static longNameOf(String code) {
-    return data[code]['name'] ?? 'unknown name';
+    if (data.containsKey(code)) {
+      return data[code]['name'] ?? 'unknown name';
+    } else {
+      return '?';
+    }
   }
 
   // ISO data comes from https://www.iso.org/iso-4217-currency-codes.html.
