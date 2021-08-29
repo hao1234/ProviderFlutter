@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24ca75a6-6513-40dc-a451-8e1d0b5d5702" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProviderFlutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProviderFlutter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/business_logic/models/currency.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/business_logic/models/currency.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/business_logic/models/rate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/business_logic/models/rate.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/business_logic/utils/iso_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/business_logic/utils/iso_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/business_logic/view_models/calculate_screen_viewmodel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/business_logic/view_models/calculate_screen_viewmodel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/business_logic/view_models/choose_favorites_viewmodel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/business_logic/view_models/choose_favorites_viewmodel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/web_api/web_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/web_api/web_api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui/views/calculate_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/views/calculate_screen.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +58,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="195" key="GridCell.Tab.0.bottom" timestamp="1630146545328">
+    <state width="1238" height="195" key="GridCell.Tab.0.bottom" timestamp="1630163031683">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="195" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1630146545328" />
-    <state width="1238" height="195" key="GridCell.Tab.0.center" timestamp="1630146545327">
+    <state width="1238" height="195" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1630163031683" />
+    <state width="1238" height="195" key="GridCell.Tab.0.center" timestamp="1630163031683">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="195" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1630146545327" />
-    <state width="1238" height="195" key="GridCell.Tab.0.left" timestamp="1630146545325">
+    <state width="1238" height="195" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1630163031683" />
+    <state width="1238" height="195" key="GridCell.Tab.0.left" timestamp="1630163031682">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="195" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1630146545325" />
-    <state width="1238" height="195" key="GridCell.Tab.0.right" timestamp="1630146545327">
+    <state width="1238" height="195" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1630163031682" />
+    <state width="1238" height="195" key="GridCell.Tab.0.right" timestamp="1630163031683">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="195" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1630146545327" />
+    <state width="1238" height="195" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1630163031683" />
   </component>
 </project>
