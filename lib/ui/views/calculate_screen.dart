@@ -28,6 +28,13 @@ class _CalculateCurrencyScreenState extends State<CalculateCurrencyScreen> {
   }
 
   @override
+  void dispose() {
+    // TODO: implement dispose
+    _controller.dispose();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return ChangeNotifierProvider<CalculateScreenViewModel>(
       create: (context) => model,
@@ -86,7 +93,7 @@ class _CalculateCurrencyScreenState extends State<CalculateCurrencyScreen> {
                   controller: _controller,
                   decoration: InputDecoration(
                     prefixIcon: Padding(
-                      padding: const EdgeInsets.only(left: 0.0),
+                      padding: const EdgeInsets.only(left: 16.0),
                       child: SizedBox(
                         width: 60,
                         child: Align(
